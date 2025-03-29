@@ -204,14 +204,13 @@ function generarTablero() {
         frontFace.textContent = carta.dataset.emoji;
       }
 
-   const frontFace = document.createElement("div");
-      frontFace.classList.add("cara", "front");
-      frontFace.textContent = "";
+    const frontFace = document.createElement("div");
+            frontFace.classList.add("cara", "front");
+            frontFace.textContent = ""; 
 
-      const backFace = document.createElement("div");
-      backFace.classList.add("cara", "back");
-      backFace.innerHTML =
-        '<ion-icon name="help-outline" class="iconoInterrogante"></ion-icon>';
+    const backFace = document.createElement("div");
+            backFace.classList.add("cara", "back");
+            backFace.textContent = "❔"; 
 
       carta.appendChild(frontFace);
       carta.appendChild(backFace);
@@ -309,11 +308,6 @@ function verificarPareja() {
 
     carta1.querySelector(".front").textContent = "";
     carta2.querySelector(".front").textContent = "";
-
-    carta1.querySelector(".back").innerHTML =
-      '<ion-icon name="help-outline" class="iconoInterrogante"></ion-icon>';
-    carta2.querySelector(".back").innerHTML =
-      '<ion-icon name="help-outline" class="iconoInterrogante"></ion-icon>';
 
     carta1.classList.remove("flipped");
     carta2.classList.remove("flipped");
