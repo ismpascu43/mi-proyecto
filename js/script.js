@@ -206,7 +206,7 @@ function generarTablero() {
 
       const frontFace = document.createElement("div");
       frontFace.classList.add("cara", "front");
-      frontFace.textContent = "";
+      frontFace.textContent = "❔";
 
       const backFace = document.createElement("div");
       backFace.classList.add("cara", "back");
