@@ -1,14 +1,27 @@
 # Parejas De Emojis
-Es un juego interactivo para poner a prueba tu memoria y tu agilidad mental, donde los jugadores tienen que encontar un número de parejas antes de que el tiempo se acabe. Dependiendo del modo y dificultad se adapta para todo tipo de edades.
-El usuario dispone de tres modos de difilcultad (fácil, medio y dificil) donde el número de cartas cambia y dos modos de  juego:     
-- Clasico: encontar parejas iguales.
-- Inverso: encontrar las parejas opuestas.
+Interactive Memory Game
 
-El jugador debe introducir su nombre para comenzar el juego y los cinco mejores puntajes de menos intentos, se guardaran en un ranking automáticamente, pudiendo restablecerlo mediante el botón "Resetear Ranking".
-El juego cuenta con un modo de visualización claro/oscuro, para una experiencia personalizada
-Los controles del juego serian:
-- En ordenador: usar el ratón para hacer click en los objetos interactivos.
-- En dispoditivos móviles o tablet: tocar la pantalla para jugar.
+It's an interactive game designed to test your memory and mental agility. Players must find a certain number of pairs before time runs out. With different modes and difficulty levels, it's suitable for all ages.
+
+The game features:
+
+Three difficulty modes (Easy, Medium, and Hard), which change the number of cards.
+
+Two game modes:
+
+Classic: Find identical pairs.
+
+Reverse: Find opposite pairs.
+
+To start, players must enter their name. The top five highest scores (achieved in the fewest attempts) are automatically saved in a ranking. This ranking can be reset using the "Reset Ranking" button.
+
+Additionally, the game offers a light/dark display mode for a personalized experience.
+
+Controls:
+
+On a computer: Use the mouse to click on interactive objects.
+
+On mobile devices or tablets: Tap the screen to play.
 
 
 
